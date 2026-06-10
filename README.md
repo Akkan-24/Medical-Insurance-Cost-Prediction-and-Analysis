@@ -26,5 +26,6 @@ It’s part of the *Machine Learning from Sheryians AI* series, focusing on buil
 ---
 
 ## 📂 Project Structure
+insurance-cost-prediction/
 │── 01-insurance.ipynb   # Main notebook with analysis and model
-│── insurance.csv         # Dataset containing insurance data
+│── insurance.csv        # Dataset containing insurance data
